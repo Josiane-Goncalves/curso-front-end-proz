@@ -1,0 +1,31 @@
+[
+    {
+    "id": 108, 
+    "nome" : "Virtus", 
+    "marca" : "Volkswagen", 
+    "categoria" : "sedan", 
+    "preco" : 200.000,
+    "quantidade em estoque" : 0, 
+    "Disponível pra pronta entrega?" : "não"
+},
+
+{
+    "id": 109, 
+    "nome" : "Golf", 
+    "marca" : "Volkswagen", 
+    "categoria" : "hatch", 
+    "preco" : 150.000,
+    "quantidade em estoque" : 10, 
+    "Disponível pra pronta entrega?" : "sim"
+},
+
+{
+    "id": 110, 
+    "nome" : "Polo", 
+    "marca" : "Volkswagen", 
+    "categoria" : "sedan", 
+    "preco" : 180.000,
+    "quantidade em estoque" : 10, 
+    "Disponível pra pronta entrega?" : "sim"
+}
+]
